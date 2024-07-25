@@ -1,0 +1,46 @@
+{
+  "node": {
+    "2131b3ef8e495d1238086599eb9ff28dfc72e7b6": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fvarujtsaturyan%2FDesktop%2FNext-auth%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22hanldeSignup%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fvarujtsaturyan%2FDesktop%2FNext-auth%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22hanldeSignup%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "39d7772882f6d9dfd05833caa1b8e4bdba88ad97": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fvarujtsaturyan%2FDesktop%2FNext-auth%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22hanldeSignup%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fvarujtsaturyan%2FDesktop%2FNext-auth%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22hanldeSignup%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "8ab1e7f1b1f1eb1ef25bbe6644f61f1428f6c525": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fvarujtsaturyan%2FDesktop%2FNext-auth%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22hanldeSignup%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fvarujtsaturyan%2FDesktop%2FNext-auth%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22hanldeSignup%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "e564bf7a447c8b2bb6ad97a19b265c7a562dff6b": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fvarujtsaturyan%2FDesktop%2FNext-auth%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22hanldeSignup%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fvarujtsaturyan%2FDesktop%2FNext-auth%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22hanldeSignup%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "8j5BmhSkni0sUmqD8qZmr4zSxhYmJBtLJLAtM7HMwmQ="
+}
